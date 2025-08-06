@@ -1,0 +1,16 @@
+Turbulence_Level,Wind_Speed_Knot,Visibility_km,Status
+High,45,19,ok
+Low,,6,not ok
+Medium,48,6,ok
+High,48,18,not ok
+Low,34,20,ok
+Medium,46,15,ok
+High,47,12,ok
+Low,10,4,not ok
+Medium,29,20,ok
+High,2,7,ok
+Medium,15,14,ok
+High,36,11,ok
+Medium,,6,not ok
+Medium,26,,not ok
+Low,40,13,ok
